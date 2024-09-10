@@ -8,13 +8,13 @@ body {
 
 #noButton {
     position: absolute;
-    margin-left: 100px;
+    margin-left: 150px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 100px;
+    margin-right: 150px;
 }
 
 .header_text {
@@ -49,10 +49,10 @@ body {
 .btn {
     background-color: rgb(255, 255, 255);
     color: rgb(255, 142, 155);
-    padding: 35px 70px;
+    padding: 15px 50px;
     text-align: center;
     display: inline-block;
-    font-size: 28px;
+    font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
     border: 3px solid rgb(255, 142, 155) ;

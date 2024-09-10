@@ -49,10 +49,10 @@ body {
 .btn {
     background-color: rgb(255, 255, 255);
     color: rgb(255, 142, 155);
-    padding: 55px 90px;
+    padding: 45px 80px;
     text-align: center;
     display: inline-block;
-    font-size: 30px;
+    font-size: 28px;
     margin: 4px 2px;
     cursor: pointer;
     border: 3px solid rgb(255, 142, 155) ;
